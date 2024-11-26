@@ -1,16 +1,22 @@
 * {
-    margin: 2;
-    padding: 5;
-    box-sizing: border-box;
-    background-color: rgb(2, 2, 2);
-    text-align: center;
-   
+    margin: auto;
+    padding: 0;
     
+    background: rgb(0, 0, 0);
+    text-align: center;
+    display: block;
+    
+.btn {
+  background-color: black;
 }
-.h {
-    background-color: rgb(0, 0, 0);
-color: rgb(20, 16, 223);
+  }
+ 
+.h1 {
+    background-color: rgb(255, 255, 255);
+
 }
+
+
 .image {
 
     -webkit-animation: shimmy 2s infinite;
@@ -43,11 +49,18 @@ color: rgb(20, 16, 223);
   
 
   .pacman {
-    float: left;
-    
-    display: block;
-    margin: auto;
+    float: left;  
   width: 70%;
     
   }
   
+  
+.search {
+  color: white;
+  background-color: white;
+
+}
+.submit {
+  color: rgb(255, 255, 255);
+  background-color: rgba(180, 173, 173, 0.178);
+}
