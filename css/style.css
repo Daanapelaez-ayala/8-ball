@@ -1,19 +1,19 @@
 * {
     margin: auto;
     padding: 0;
-    
+    float: center;
     background: rgb(0, 0, 0);
     text-align: center;
     display: block;
     
 .btn {
-  background-color: black;
+  background-color: rgb(0, 0, 0);
 }
   }
  
 .h1 {
-    background-color: rgb(255, 255, 255);
-
+    background-color: rgb(221, 241, 105);
+color: rgb(229, 255, 0);
 }
 
 
@@ -57,10 +57,13 @@
   
 .search {
   color: rgb(255, 255, 255);
-  background-color: white;
-
+  background-color: rgb(32, 15, 190);
+  float: center;
+width: 100%;
 }
 .submit {
-  color: rgb(255, 255, 255);
+  color: rgb(224, 238, 96);
   background-color: rgba(180, 173, 173, 0.178);
+  float: center;
+  width: 100%;
 }
