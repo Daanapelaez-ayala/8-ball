@@ -2,7 +2,7 @@
     margin: auto;
     padding: 0;
     float: center;
-    background: rgb(0, 0, 0);
+    background: rgb(15, 34, 143);
     text-align: center;
     display: block;
     
@@ -57,7 +57,7 @@ color: rgb(229, 255, 0);
   
 .search {
   color: rgb(255, 255, 255);
-  background-color: rgb(32, 15, 190);
+  background-color:  rgb(231, 236, 187);
   float: center;
 width: 100%;
 }
